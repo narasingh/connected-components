@@ -1,7 +1,10 @@
 {
   "name": "connected-components",
+  "description": "Connected components to utilize react query",
   "version": "0.1.0",
   "private": true,
+  "author" : "Narasingh Mishra", 
+  "email" : "narasinghsays@gmail.com",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
