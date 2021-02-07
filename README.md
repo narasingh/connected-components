@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Connected Components
+
+This is RND project to utilize react query in order crate resuable smart components
